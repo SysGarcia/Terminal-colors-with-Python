@@ -22,4 +22,4 @@ This script is designed to be lightweight and easy to integrate into your existi
 
 To use this script, simply include it in your Python project. You can also run it as a standalone script for testing purposes.
 
-![imagen](https://github.com/Wolfuliam/Terminal-colors-with-Python/assets/147284006/11169e06-1ebf-410f-81ea-4b73aced0e96)
+![imagen](https://github.com/Wolfuliam/Terminal-colors-with-Python/assets/147284006/ff22159d-59ba-4de3-b92a-204809d8bff4)
