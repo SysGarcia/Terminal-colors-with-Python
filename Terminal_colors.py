@@ -29,4 +29,14 @@ is supported. To enable it on Windows that is the code.
 
 Another option is to use colorama, which is a library which makes ANSI
 escape character sequences work under Windows as well
+
+if you are interested in testing the code, try this snippets of code below.
+
+# the functions colored, and enable_windows_ansi_support...
+
+def random_rgb_value(): #random RGB generator.
+    return tuple(random.randint(0, 255) for _ in range(3))
+    
+for i in range(0,30): #Loop to print 30 examples of colors
+    print(colored(random_rgb_value(),"Example"))
 """
